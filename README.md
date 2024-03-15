@@ -14,3 +14,4 @@ Create an API that acts as a store management tool
 - Write unit tests, at least for one class
 - Use Java 9+ features
 - Add a small Readme to document the project
+
